@@ -1,6 +1,8 @@
 node_modules
+dist
 dist/tsconfig.tsbuildinfo
 dist/**
 .git
 .gitignore
 .env
+tsconfig.tsbuildinfo
