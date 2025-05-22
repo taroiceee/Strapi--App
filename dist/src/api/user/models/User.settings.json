@@ -1,0 +1,10 @@
+{
+    "attributes": {
+        "phone": {
+            "type": "string",
+            "required": true,
+            "regex": "^1[3-9]\\d{9}$"
+        },
+        "nickname": { "type": "string" }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "controllers": {
+      "users-permissions.auth": {
+        "login": ["find"]
+      },
+      "users-permissions.user": {
+        "create": ["create"]
+      }
+    }
+  }
