@@ -1,8 +1,17 @@
 node_modules
-dist
-dist/tsconfig.tsbuildinfo
-dist/**
+# dist
+# dist/tsconfig.tsbuildinfo
+# dist/**
 .git
 .gitignore
 .env
 tsconfig.tsbuildinfo
+
+Dockerfile
+README.md
+*.log
+*.md
+.cache
+tmp
+.vscode
+.env.*
